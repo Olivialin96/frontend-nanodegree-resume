@@ -1,3 +1,1 @@
-/*
-This is empty on purpose! Your code to build the resume will go here.
- */
+$(".super-header-wrapper").html("<img style='width:100%' src='http://goo.gl/WCrBmS'>");
